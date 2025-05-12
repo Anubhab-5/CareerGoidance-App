@@ -13,7 +13,7 @@ from reportlab.lib.styles import getSampleStyleSheet
 
 # Load environment variables
 load_dotenv()
-API_KEY = os.getenv("GOOGLE_API_KEY")
+API_KEY = "AIzaSyA_DsCiLJ0i6EK6AUc1wCZokpk8ZSsEC1Y"
 
 # Environment Validation
 if not API_KEY:
